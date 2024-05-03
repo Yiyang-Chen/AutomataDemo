@@ -1,0 +1,4 @@
+repository "AutomataDemo@Rabbitsheep@cloud"
+  path "/"
+    br "/main"
+    co "/main"
